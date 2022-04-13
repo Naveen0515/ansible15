@@ -11,6 +11,6 @@ wait: yes
 group: Ansible
 count: 1
 vpc_subnet_id: default
-assign_public_ip: yes
+assign_public_ip: no
 aws_access_key: ***********xxxxxxxx
 Aws_secret_key: ***********xxxxxxxx
